@@ -1,6 +1,6 @@
 #PHFilter v1.0
 
-It removes private heterozygous genotype from vcd file
+It removes private heterozygous genotype from VCF file
 
 ###Read Manual for detail instructions
 
