@@ -2,8 +2,6 @@
 
 It removes private heterozygous genotype from VCF file
 
-###Read Manual for detail instructions
-
 ##Requirements:
 
 Python 2.7 and above
